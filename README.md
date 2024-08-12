@@ -23,4 +23,4 @@ To run the Flashcard Learning Tool locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/AnoushkaIshi/flashcard-app
